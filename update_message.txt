@@ -1,0 +1,2 @@
+This version is outdated and may fail due to changes in TikTok's live detection.
+Please update to ensure stable performance.
